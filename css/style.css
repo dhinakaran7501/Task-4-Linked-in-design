@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.nav1{
+    border: 1px solid;
+    background-color: rgb(240, 233, 233);
+    width: 1547px;
+    height: 51px;
+    display:flex;
+}
+.searchbar input{
+    margin-top: 15px;
+    width: 224px;
+    height: 24px;
+    margin-left: 4px;
+}
+.linkedinlogo{
+    width: 39px;
+    height: 36px;
+    margin-top: 10px;
+    margin-left: 219px;
+}
+.nav2{
+    display:flex;
+    justify-content: center;
+    margin-top: -47px;
+}
+.material-symbol-outlined{
+    margin-left: 9px;
+}
+.group, .job, .chat{
+    margin-left:29px;
+}
+
+.container{
+    display:flex;
+    justify-content:space-between;
+}
+.secondspace{
+    background-color:white;
+    border-radius:10px;
+
+}
+.border1{
+    border: 1px solid black;
+    width: 642px;
+    height: 428px;
+    border-radius:10px;
+}
+.flex2{
+    display:flex;
+    justify-content:space-between;
+}
+.image1{
+    width:41px;
+}
+.profileimage{
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.profileownername{
+    margin-right:366px;
+    display: inline-block;
+    margin-top: 18px;
+}
+.topsymbols{
+    margin-right:16px;
+    margin-top: 14px;
+}
+.hr1{
+    margin-top: 3px;
+    width: 596px;
+    margin-left: 22px;
+}
+.hr2{
+    margin-top: 6px;
+    width: 596px;
+    margin-left: 22px;
+}
+
+.border2{
+    margin-left:11px;
+    margin-top: 7px;
+    width: 619px;
+    height: 301px;
+    
+}
+.symbols{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+.symbol1,.symbol2, .symbol3, .symbol4{
+    display:flex;
+}
+.like, .comment, .repost, .send{
+    margin-left: 3px;
+    margin-top: 4px;
+}
+.symbol1 .material-symbols-outlined:hover{
+    color:red;
+}
+.symbol2 .material-symbols-outlined:hover{
+    color:red;
+}
+.symbol3 .material-symbols-outlined:hover{
+    color:red;
+}
+.symbol4 .material-symbols-outlined:hover{
+    color:red;
+}
+.inimage img{
+    height: 296px;
+    width: 212px;
+    margin-top: 2px;
+    margin-left: 43px;
+}
+.image2{
+    width: 292px;
+    height: 301px;  
+}
